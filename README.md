@@ -1,1 +1,1 @@
-# JpaCourse
+# JpaCrud
